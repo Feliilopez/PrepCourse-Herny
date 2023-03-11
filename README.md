@@ -1,2 +1,1 @@
-# PrepCourse-Herny
-Amo la carne argentina
+Esta es una prueba de github
